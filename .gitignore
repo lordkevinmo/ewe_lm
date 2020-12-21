@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# core files
+*.csv
+
+# Mac OS files
+.DS_Store
+
+
+# core files
+*.csv
+
+# Mac OS files
+.DS_Store
+
